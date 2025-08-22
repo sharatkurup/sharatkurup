@@ -9,8 +9,7 @@
 
 <h2>📺 My IT Certifications</h2>
 
-- CISSP 
-(https://www.credly.com/badges/b95dbeac-f1da-41bf-992f-0d25105d66e5/linked_in_profile)
+- [CISSP](https://www.credly.com/badges/b95dbeac-f1da-41bf-992f-0d25105d66e5/linked_in_profile)
  
 <h2> 🤳 Connect with me:</h2>
 
@@ -19,8 +18,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
