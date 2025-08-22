@@ -4,7 +4,7 @@ href="https://www.linkedin.com/in/sharat-kurup-525aa3164/"> Senior Security Cons
 <h2>👨‍💻 IT Security Projects:</h2>
 
 - <b> Security Project 1 </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyzing threats in Sentinel SIEM](https://https://github.com/sharatkurup/Sentinel-SIEM)
 
   
 
