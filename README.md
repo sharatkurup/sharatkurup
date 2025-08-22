@@ -4,7 +4,7 @@ href="https://www.linkedin.com/in/sharat-kurup-525aa3164/"> Senior Security Cons
 <h2>👨‍💻 IT Security Projects:</h2>
 
 - <b> Security Project 1 </b>
-  - [Analyzing threats in Sentinel SIEM](https://https://github.com/sharatkurup/Sentinel-SIEM)
+  - [Analyzing threats in Sentinel SIEM](https://github.com/sharatkurup/Sentinel-SIEM)
 
   
 
